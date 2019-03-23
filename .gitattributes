@@ -1,1 +1,1 @@
-*.sh chmod=+x eol=lf
+gradlew chmod=+x eol=lf
